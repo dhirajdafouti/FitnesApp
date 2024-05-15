@@ -1,1 +1,1 @@
-﻿# FitnessApp which uses the clean architecture with MVVM and
+﻿# FitnessApp which uses the clean architecture with MVVM design pattern and multimodule .
